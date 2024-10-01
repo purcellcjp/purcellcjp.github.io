@@ -48,9 +48,9 @@ Complete the following steps:
     -   Use `otu_ids` as the labels for the bar chart.
         
     -   Use `otu_labels` as the hovertext for the chart.
-        
-        ![bar Chart](Module%2014%20Challenge/hw01.jpg)
-        
+
+       ![bar Chart](images/hw01.jpg) 
+
 3.  Create a bubble chart that displays each sample.
     
     -   Use `otu_ids` for the x values.
@@ -64,7 +64,7 @@ Complete the following steps:
     -   Use `otu_labels` for the text values.
         
     
-    ![Bubble Chart](Module%2014%20Challenge/bubble_chart.jpg)
+    ![Bubble Chart](images/bubble_chart.jpg)
     
 4.  Display the sample's metadata, i.e., an individual's demographic information.
     
@@ -73,11 +73,11 @@ Complete the following steps:
     -   Append an html tag with that text to the `#sample-metadata` panel.
         
     
-    ![hw](Module%2014%20Challenge/hw03.jpg)
+    ![hw](images/hw03.jpg)
     
 5.  Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
     
-    ![hw](Module%2014%20Challenge/hw02.jpg)
+    ![hw](images/hw02.jpg)
     
 6.  Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
     
